@@ -1,0 +1,43 @@
+1) you have to download git software from internet and install it on your local machince
+
+2) Create a new account on github
+
+3) Create a new repo on your github
+
+to upload your website code on github
+
+1) open git bash in your code folder
+
+2) git init   (it will create a file in your code)
+
+3) git add .  (it will collect all the files of your code)
+
+4) git commit -m "add your custom messaage" (it will send message to github)
+
+5) git remote add origin https://github.com/Varoon-Vasu/firstwebsite.git
+
+6) git push -u origin master (it will push your code on github)
+
+
+
+How to link git with your github account
+
+1) git config --global user.email "varoonvasu18@gmail.com"
+2) git config --global user.name "Varoon-Vasu"
+
+
+
+
+
+
+
+
+
+
+
+How to get your uploaded code from github
+
+
+clone ==> copy karan 
+
+1) git clone your repo url
